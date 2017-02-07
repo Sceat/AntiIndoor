@@ -1,1 +1,2 @@
-TestPlugin
+- Put jar under /plugins
+- Run Tofumanchou
